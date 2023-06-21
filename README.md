@@ -4,22 +4,22 @@
 > 
 > 人没有牺牲就什么都得不到，为了得到什么东西，就需要付出同等的代价。这就是等价交换的原则。——《钢炼》
 
-* [在线阅读](https://aspx.apachecn.org)
+* [在线阅读](https://aspx.flygon.net)
 ## 下载
 
 ### Docker
 
 ```
-docker pull apachecn0/apachecn-asp-dotnet-zh
-docker run -tid -p <port>:80 apachecn0/apachecn-asp-dotnet-zh
+docker pull apachecn0/flygon-asp-dotnet-zh
+docker run -tid -p <port>:80 apachecn0/flygon-asp-dotnet-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g apachecn-asp-dotnet-zh
-apachecn-asp-dotnet-zh <port>
+npm install -g flygon-asp-dotnet-zh
+flygon-asp-dotnet-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
